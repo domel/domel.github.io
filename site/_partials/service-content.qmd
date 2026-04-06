@@ -50,4 +50,23 @@ Academic service includes reviewing and program-committee work across data manag
 - International Semantic Web Conference 2017 Workshop on Decentralizing the Semantic Web
 - and other events
 :::
+
+::: {.content-panel}
+**Membership in societies and organizations**
+
+- Graph Data Council (LEX Working Group)
+- Linked Data Benchmark Council, including the Property Graph Schema Working Group and LEX Working Group
+- Association for Computing Machinery
+- International Organization for Standardization via LDBC/GBC, including ISO/IEC JTC1 SC27, ISO/IEC JTC1 SC34, and ISO/IEC JTC1 SC38
+- Polish Committee for Standardization, Technical Committee No. 182
+- World Wide Web Consortium, including the RDF & SPARQL Working Group, WebID Community Group, Read Write Web Community Group, JSON for Linking Data Community Group, and HTML Working Group
+- Internet Engineering Task Force, including Atom Publishing Format and Protocol, and JSON
+:::
+
+::: {.content-panel}
+**Expert and competition teams**
+
+- Council of Experts of the Free and Open Source Software Foundation
+- The Technotalent Competition Jury of the University of Bialystok
+:::
 :::
