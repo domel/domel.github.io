@@ -1,0 +1,32 @@
+Selected conferences, papers, and presentations.
+
+::: {.stacked-list}
+::: {.content-panel}
+**Selected conferences and papers**
+
+- **FHIR Lens: A Graph-Based Approach to Semantic EHR Exploration**. Madrid, Spain, 2025
+- **PG-Schema: Schemas for Property Graphs**. 44th ACM Special Interest Group on Management of Data, Siattle, USA, 2023
+- **CoVoMe: New methodology for building controlled vocabulary**. 15th International Conference on Metadata and Semantics Research, Madrid, Spain, 2021
+- **A Distributed Graph Data Storage in Ethereum Ecosystem**. 18th International Conference on the Economics of Grids, Clouds, Systems, and Services, Rome, Italy, 2021
+- **PGDL: A Interoperable Schema Format for Graphs**. W3C Workshop on Web Standardization for Graph Data, Berlin, Germany, 2019
+- **YARS-PG: Serialization for Property Graphs**. W3C Workshop on Web Standardization for Graph Data, Berlin, Germany, 2019
+- **Inference rules for OWL-P in N3Logic**. 13th Federated Conference on Computer Science and Information Systems, Poznan, Poland, 2018
+- **Named Property Graphs**. 13th Federated Conference on Computer Science and Information Systems, Poznan, Poland, 2018
+- **RDF validation: a brief survey**. 13th International Conference Beyond Databases Architectures and Structures, Ustron, Poland, 2017
+- **RDF Data in Property Graph Model**. Metadata and Semantics Research, 10th International Conference, MTSR'16, Gottingen, Germany, 2016
+- **RDF Event Stream Processing based on the Publish-Subscribe pattern**. International Conference on Multimedia & Network Information Systems, Wroclaw, Poland, 2016
+- **Grouping Multiple RDF Graphs in the Collections**. 10th International Conference Beyond Databases, Architectures and Structures, Ustron, Poland, 2014
+- **Trust in RDF Graphs**. 16th East-European Conference on Advances in Databases and Information Systems, Poznan, Poland, 2012
+- **WebID+ACO: A distributed identification mechanism for social web**. Workshop on Social Network, Interoperability and Privacy, Berlin, Germany, 2011
+- **Temporary RDF graphs in the Linked Data and REST style**. Linked Enterprise Data Patterns Workshop, Cambridge, USA, 2011
+- **Managing a graph store in the Linked Data and REST style**. Linked Enterprise Data Patterns Workshop, Cambridge, USA, 2011
+:::
+
+::: {.content-panel}
+**Other presentations**
+
+- **How to compare data formats?**. Curico, Chile, 2019
+- **ChemSKOS: cheminformatics Linked Data**. Santiago, Chile, 2019
+- **RDF schemas and constraints**. Helsinki, Finland, 2017
+:::
+:::

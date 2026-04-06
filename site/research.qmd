@@ -1,0 +1,6 @@
+---
+title: Research
+---
+
+{{< include _partials/research-content.qmd >}}
+

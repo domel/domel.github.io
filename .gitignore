@@ -1,0 +1,14 @@
+.DS_Store
+.cache/
+.codex
+.quarto/
+.quarto-cache/
+_site/
+preview-html/
+PRD_files/
+dominik.jpg
+site/.quarto/
+site/_site/
+site/scripts/__pycache__/
+**/*.pyc
+**/*.quarto_ipynb

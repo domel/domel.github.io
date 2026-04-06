@@ -1,0 +1,53 @@
+Academic service includes reviewing and program-committee work across data management, semantic technologies, graph data, and applied AI.
+
+::: {.stacked-list}
+::: {.content-panel}
+**Reviewing activity**
+
+- *ACM Computing Surveys*
+- *Computer Science Review*
+- *VLDB Journal*
+- *IEEE Transactions on Knowledge and Data Engineering*
+- *PLOS One*
+- *IEEE Access*
+- *Big Data*
+- *Data & Knowledge Engineering*
+- *SoftwareX*
+- *Semantic Web Journal*
+- *Big Data and Cognitive Computing*
+- *Knowledge and Information Systems*
+- *Data in Brief*
+- *Journal of Intelligent Information Systems*
+- *Discover Artificial Intelligence*
+- *Symmetry*
+- *Sensors*
+- *ISPRS International Journal of Geo-Information*
+- *Electronics*
+- *Sustainability*
+- *Applied Sciences*
+- *Mathematics*
+- *Discover Public Health*
+- *Digital Discovery*
+- *International Journal of Approximate Reasoning*
+- *Journal of Cheminformatics*
+- and other venues
+:::
+
+::: {.content-panel}
+**Program committees**
+
+- International Semantic Web Conference 2026: Research Track
+- SEMANTiCS 2026: Posters and Demos Track
+- Extended Semantic Web Conference 2026: Resources Track
+- K-CAP 2025
+- International Semantic Web Conference 2025: Research Track
+- International Semantic Web Conference 2025: Posters and Demos
+- Joint Workshop on Graph Data Management Experiences & Systems (GRADES) and Network Data Analytics (NDA) 2025
+- International Rule Challenge @ RuleML+RR 2024
+- Declarative AI 2022
+- Squaring the Circle on Graphs: Reconciling Property Graphs and Semantic Graphs 2021
+- International Semantic Web Conference 2018 Workshop on Decentralizing the Semantic Web
+- International Semantic Web Conference 2017 Workshop on Decentralizing the Semantic Web
+- and other events
+:::
+:::

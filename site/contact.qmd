@@ -1,0 +1,5 @@
+---
+title: Contact
+---
+
+{{< include _partials/contact-content.qmd >}}

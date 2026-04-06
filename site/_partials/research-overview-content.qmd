@@ -1,0 +1,31 @@
+My research focuses on semantic technologies, graph data models, data interoperability, data integration, and knowledge representation for publishing, querying, and exchanging knowledge.
+
+::: {.stacked-list}
+::: {.content-panel}
+**Core interests**
+
+- Semantic Web
+- Linked Data
+- Graph Databases
+- Knowledge Representation
+- RDF
+- Property Graphs
+- Data Interoperability
+- Data Integration
+- Data Modeling
+:::
+
+::: {.content-panel}
+**Research directions**
+
+- Knowledge representation on the Web
+- Linked Data and RDF-based integration
+- Property Graphs and graph database models
+:::
+
+::: {.content-panel}
+**Project portfolio**
+
+The current project list covers software, formats, grammars, converters, validation tooling, and language-specification work across RDF, Linked Data, Property Graphs, and graph query languages.
+:::
+:::

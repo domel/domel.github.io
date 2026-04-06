@@ -1,0 +1,5 @@
+---
+title: Publications
+---
+
+{{< include _partials/publications-content.qmd >}}

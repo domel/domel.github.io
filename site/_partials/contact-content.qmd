@@ -1,0 +1,40 @@
+::: {.split-grid}
+::: {.content-panel}
+**Institutional address**
+
+University of Bialystok  
+Faculty of Computer Science  
+ul. Konstantego Ciołkowskiego 1M  
+15-245 Białystok  
+room 2026
+:::
+
+::: {.content-panel}
+**Direct contact**
+
+::: {.content-visible when-format="html"}
+Email: <span id="contact-email"></span>  
+<script>
+(() => {
+  const target = document.getElementById("contact-email");
+  if (!target) return;
+
+  const user = String.fromCharCode(100, 46, 116, 111, 109, 97, 115, 122, 117, 107);
+  const domain = String.fromCharCode(117, 119, 98, 46, 101, 100, 117, 46, 112, 108);
+  const email = `${user}@${domain}`;
+  const link = document.createElement("a");
+  link.href = `mailto:${email}`;
+  link.textContent = email;
+  target.replaceChildren(link);
+})();
+</script>
+<noscript>Email: d[dot]tomaszuk[at]uwb[dot]edu[dot]pl</noscript>  
+:::
+
+::: {.content-visible when-format="pdf"}
+Email: d[dot]tomaszuk[at]uwb[dot]edu[dot]pl  
+:::
+
+Phone: [+48 85 738 8330](tel:+48857388330)
+:::
+:::

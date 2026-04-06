@@ -1,0 +1,33 @@
+::: {.profile-lead}
+::: {.content-visible when-format="html"}
+<img src="assets/images/dominik-tomaszuk.jpg" class="profile-photo" alt="Portrait of Dominik Tomaszuk" width="110">
+:::
+
+::: {.content-visible when-format="pdf"}
+![](assets/images/dominik-tomaszuk.jpg){.profile-photo width=110px}
+:::
+
+Dr Dominik Tomaszuk works in semantic technologies and graph-based knowledge representation, with research interests spanning the Semantic Web, Linked Data, graph databases, RDF, Property Graphs, data interoperability, data integration, and data modeling.
+:::
+
+::: {.split-grid}
+::: {.content-panel}
+**Research interests**
+
+- Semantic Web
+- Linked Data
+- Graph Databases
+- Knowledge Representation
+- RDF
+- Property Graphs
+- Data Interoperability
+- Data Integration
+- Data Modeling
+:::
+
+::: {.content-panel}
+**Profile**
+
+Current work focuses on RDF and Property Graph interoperability, data integration, data modeling, schema languages, validation, and graph query language concepts, alongside open-source software for graph data conversion and analysis.
+:::
+:::

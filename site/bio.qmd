@@ -1,0 +1,61 @@
+---
+title: "Bio: Dominik Tomaszuk"
+format:
+  html:
+    css: styles.css
+    format-links: false
+    pagetitle: Bio
+    title-block-style: none
+  pdf:
+    pdf-engine: xelatex
+    toc: false
+    number-sections: false
+    geometry:
+      - margin=1in
+---
+
+::: {.content-visible when-format="html"}
+<style>
+#quarto-document-content > header#title-block-header {
+  display: none;
+}
+</style>
+
+# Bio
+
+[Download the PDF biography](bio.pdf){.hero-button}
+
+The Bio page includes a short profile on the web and links to the full downloadable biography.
+:::
+
+## About
+
+{{< include _partials/about-content.qmd >}}
+
+::: {.content-visible when-format="pdf"}
+## Contact
+
+{{< include _partials/contact-content.qmd >}}
+
+{{< include _partials/about-extended-content.qmd >}}
+
+## Research
+
+{{< include _partials/research-overview-content.qmd >}}
+
+## Publications
+
+{{< include _partials/publications-content.qmd >}}
+
+## Projects
+
+{{< include _partials/projects-content.qmd >}}
+
+## Conferences
+
+{{< include _partials/conferences-content.qmd >}}
+
+## Service
+
+{{< include _partials/service-content.qmd >}}
+:::

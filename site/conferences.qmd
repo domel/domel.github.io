@@ -1,0 +1,6 @@
+---
+title: Conferences
+---
+
+{{< include _partials/conferences-content.qmd >}}
+

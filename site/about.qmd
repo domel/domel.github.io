@@ -1,0 +1,7 @@
+---
+title: About
+---
+
+{{< include _partials/about-content.qmd >}}
+
+{{< include _partials/about-extended-content.qmd >}}

@@ -1,0 +1,241 @@
+::: {.publication-list}
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Angela Bonifati, Stefania Dumbrava, George Fletcher, Jan Hidders, Matthias Hofer, Wim Martens, Filip Murlak, Joshua Shinavier, Slawek Staworko, and Dominik Tomaszuk. "Threshold queries in theory and in the wild." *VLDB J.* 34(4). pp. 49. [DOI](https://doi.org/10.1007/S00778-025-00916-W).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Dominik Tomaszuk, Arslan Smajevic, Tomer Sagi, and Katja Hose. "FHIR Lens: A Graph-Based Approach to Semantic EHR Exploration." In *38th IEEE International Symposium on Computer-Based Medical Systems, CBMS 2025, Madrid, Spain, June 18-20, 2025*, IEEE. pp. 1-6. [DOI](https://doi.org/10.1109/CBMS65348.2025.00133).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Dominik Tomaszuk and José Emilio Labra Gayo. "On Property Constraints in PG-Schema." In *Proceedings of the 13th Knowledge Capture Conference 2025, K-CAP 2025, Dayton, Ohio, USA, December 10-12, 2025*, ACM. pp. 69-73. [DOI](https://doi.org/10.1145/3731443.3771349).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Dörthe Arndt, William Van Woensel, and Dominik Tomaszuk. "SPARQL in N3: SPARQL CONSTRUCT as a rule language for the Semantic Web (Extended Version)." *CoRR* abs/2508.13041. [DOI](https://doi.org/10.48550/ARXIV.2508.13041).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Dörthe Arndt, William Van Woensel, and Dominik Tomaszuk. "SPARQL in N3: SPARQL construct as a Rule Language for the Semantic Web." In *Rules and Reasoning - 9th International Joint Conference, RuleML+RR 2025, Istanbul, Turkey, September 22-24, 2025, Proceedings*, Springer. pp. 209-226. [DOI](https://doi.org/10.1007/978-3-032-08887-1_13).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Maxime Jakubowski, Dominik Tomaszuk, and Katja Hose. "Bridging Gaps in RDF Validation - Insights and Innovation Opportunities in RDF Validation Practices." In *Linking Meaning: Semantic Technologies Shaping the Future of AI - Proceedings of the 21st International Conference on Semantic Systems, SEMANTiCS 2025, Vienna, Austria, September 3-5, 2025*, IOS Press. pp. 70-84. [DOI](https://doi.org/10.3233/SSW250011).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Shqiponja Ahmetaj, Iovka Boneva, Jan Hidders, Katja Hose, Maxime Jakubowski, José Emilio Labra Gayo, Wim Martens, Fabio Mogavero, Filip Murlak, Cem Okulmus, Axel Polleres, Ognjen Savkovic, Mantas Simkus, and Dominik Tomaszuk. "Common Foundations for SHACL, ShEx, and PG-Schema." In *Proceedings of the ACM on Web Conference 2025, WWW 2025, Sydney, NSW, Australia, 28 April 2025- 2 May 2025*, ACM. pp. 8-21. [DOI](https://doi.org/10.1145/3696410.3714694).
+:::
+
+::: {.publication-entry}
+[2025]{.publication-year}
+
+Shqiponja Ahmetaj, Iovka Boneva, Jan Hidders, Katja Hose, Maxime Jakubowski, José Emilio Labra Gayo, Wim Martens, Fabio Mogavero, Filip Murlak, Cem Okulmus, Axel Polleres, Ognjen Savkovic, Mantas Simkus, and Dominik Tomaszuk. "Common Foundations for SHACL, ShEx, and PG-Schema." *CoRR* abs/2502.01295. [DOI](https://doi.org/10.48550/ARXIV.2502.01295).
+:::
+
+::: {.publication-entry}
+[2024]{.publication-year}
+
+Lukasz Szeremeta, Dominik Tomaszuk, and Renzo Angles. "YARS-PG: Property Graphs Representation for Publication and Exchange." *IEEE Access* 12. pp. 73386-73399. [DOI](https://doi.org/10.1109/ACCESS.2024.3403924).
+:::
+
+::: {.publication-entry}
+[2023]{.publication-year}
+
+Angela Bonifati, Stefania Dumbrava, George Fletcher, Jan Hidders, Matthias Hofer, Wim Martens, Filip Murlak, Joshua Shinavier, Slawek Staworko, and Dominik Tomaszuk. "Threshold Queries." *SIGMOD Rec.* 52(1). pp. 64-73. [DOI](https://doi.org/10.1145/3604437.3604452).
+:::
+
+::: {.publication-entry}
+[2023]{.publication-year}
+
+Dörthe Arndt, William Van Woensel, and Dominik Tomaszuk. "SiN3: Scalable inferencing with SPARQL CONSTRUCT queries." In *Proceedings of the ISWC 2023 Posters, Demos and Industry Tracks: From Novel Ideas to Industrial Practice co-located with 22nd International Semantic Web Conference (ISWC 2023), Athens, Greece, November 6-10, 2023*, CEUR-WS.org. [URL](https://ceur-ws.org/Vol-3632/ISWC2023_paper_469.pdf).
+:::
+
+::: {.publication-entry}
+[2023]{.publication-year}
+
+Renzo Angles, Angela Bonifati, Stefania Dumbrava, George Fletcher, Alastair Green, Jan Hidders, Bei Li, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Stefan Plantikow, Ognjen Savkovic, Michael Schmidt, Juan Sequeda, Slawek Staworko, Dominik Tomaszuk, Hannes Voigt, Domagoj Vrgoc, Mingxi Wu, and Dusan Zivkovic. "PG-Schema: Schemas for Property Graphs." *Proc. ACM Manag. Data* 1(2). pp. 198:1-198:25. [DOI](https://doi.org/10.1145/3589778).
+:::
+
+::: {.publication-entry}
+[2022]{.publication-year}
+
+Angela Bonifati, Stefania Dumbrava, George Fletcher, Jan Hidders, Matthias Hofer, Wim Martens, Filip Murlak, Joshua Shinavier, Slawek Staworko, and Dominik Tomaszuk. "Threshold Queries in Theory and in the Wild." *Proc. VLDB Endow.* 15(5). pp. 1105-1118. [DOI](https://doi.org/10.14778/3510397.3510407).
+:::
+
+::: {.publication-entry}
+[2022]{.publication-year}
+
+Dominik Tomaszuk, Szymon Glab, Filip Turobos, Tomasz Pawlik, Dominik Kuzinski, and Mirek Sopek. "Interwoven Hash of Vicious Circle Free Graph." In *IEEE International Conference on Blockchain, Blockchain 2022, Espoo, Finland, August 22-25, 2022*, IEEE. pp. 449-454. [DOI](https://doi.org/10.1109/BLOCKCHAIN55522.2022.00069).
+:::
+
+::: {.publication-entry}
+[2022]{.publication-year}
+
+Mirek Sopek, Dominik Tomaszuk, Szymon Glab, Filip Turobos, Ivo Zielinski, Dominik Kuzinski, Ryszard Olejnik, Piotr Luniewski, and Przemyslaw Gradzki. "Technological Foundations of Ontological Ecosystems on the 3rd Generation Blockchains." *IEEE Access* 10. pp. 12487-12502. [DOI](https://doi.org/10.1109/ACCESS.2022.3141014).
+:::
+
+::: {.publication-entry}
+[2022]{.publication-year}
+
+Renzo Angles, Angela Bonifati, Stefania Dumbrava, George Fletcher, Alastair Green, Jan Hidders, Bei Li, Leonid Libkin, Victor Marsault, Wim Martens, Filip Murlak, Stefan Plantikow, Ognjen Savkovic, Michael Schmidt, Juan Sequeda, Slawek Staworko, Dominik Tomaszuk, Hannes Voigt, Domagoj Vrgoc, Mingxi Wu, and Dusan Zivkovic. "PG-Schema: Schemas for Property Graphs." *CoRR* abs/2211.10962. [DOI](https://doi.org/10.48550/ARXIV.2211.10962).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Angela Bonifati, Stefania Dumbrava, George Fletcher, Jan Hidders, Matthias Hofer, Wim Martens, Filip Murlak, Joshua Shinavier, Slawek Staworko, and Dominik Tomaszuk. "Threshold Queries in Theory and in the Wild." *CoRR* abs/2106.15703. [URL](https://arxiv.org/abs/2106.15703).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Angela Bonifati, Stefania Dumbrava, George Fletcher, Jan Hidders, Matthias Hofer, Wim Martens, Filip Murlak, Joshua Shinavier, Slawek Staworko, and Dominik Tomaszuk. "Threshold queries in Python (Version 1.0.1)." Zenodo. [DOI](https://doi.org/10.5281/ZENODO.5658389).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Dominik Tomaszuk. "CoVoMe: New Methodology for Building Controlled Vocabulary." In *Metadata and Semantic Research - 15th International Conference, MTSR 2021, Virtual Event, November 29 - December 3, 2021, Revised Selected Papers*, Springer. pp. 41-56. [DOI](https://doi.org/10.1007/978-3-030-98876-0_4).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Dominik Tomaszuk, Dominik Kuzinski, Mirek Sopek, and Boguslaw Swiecicki. "A Distributed Graph Data Storage in Ethereum Ecosystem." In *Economics of Grids, Clouds, Systems, and Services - 18th International Conference, GECON 2021, Virtual Event, September 21-23, 2021, Proceedings*, Springer. pp. 223-231. [DOI](https://doi.org/10.1007/978-3-030-92916-9_21).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Lukasz Szeremeta and Dominik Tomaszuk. "Generating molecular entities as structured data." *SoftwareX* 15. pp. 100733. [DOI](https://doi.org/10.1016/J.SOFTX.2021.100733).
+:::
+
+::: {.publication-entry}
+[2021]{.publication-year}
+
+Renzo Angles, Angela Bonifati, Stefania Dumbrava, George Fletcher, Keith W. Hare, Jan Hidders, Victor E. Lee, Bei Li, Leonid Libkin, Wim Martens, Filip Murlak, Josh Perryman, Ognjen Savkovic, Michael Schmidt, Juan F. Sequeda, Slawek Staworko, and Dominik Tomaszuk. "PG-Keys: Keys for Property Graphs." In *SIGMOD '21: International Conference on Management of Data, Virtual Event, China, June 20-25, 2021*, ACM. pp. 2423-2436. [DOI](https://doi.org/10.1145/3448016.3457561).
+:::
+
+::: {.publication-entry}
+[2020]{.publication-year}
+
+Dominik Tomaszuk and David Hyland-Wood. "RDF 1.1: Knowledge Representation and Data Integration Language for the Web." *Symmetry* 12(1). pp. 84. [DOI](https://doi.org/10.3390/SYM12010084).
+:::
+
+::: {.publication-entry}
+[2020]{.publication-year}
+
+Dominik Tomaszuk and David Hyland-Wood. "RDF 1.1: Knowledge Representation and Data Integration Language for the Web." *CoRR* abs/2001.00432. [URL](http://arxiv.org/abs/2001.00432).
+:::
+
+::: {.publication-entry}
+[2020]{.publication-year}
+
+Dominik Tomaszuk, Renzo Angles, and Harsh Thakkar. "PGO: Describing Property Graphs in RDF." *IEEE Access* 8. pp. 118355-118369. [DOI](https://doi.org/10.1109/ACCESS.2020.3002018).
+:::
+
+::: {.publication-entry}
+[2020]{.publication-year}
+
+Renzo Angles, Harsh Thakkar, and Dominik Tomaszuk. "Mapping RDF Databases to Property Graph Databases." *IEEE Access* 8. pp. 86091-86110. [DOI](https://doi.org/10.1109/ACCESS.2020.2993117).
+:::
+
+::: {.publication-entry}
+[2019]{.publication-year}
+
+Dominik Tomaszuk, Renzo Angles, Lukasz Szeremeta, Karol Litman, and Diego Cisterna. "Serialization for Property Graphs." In *Beyond Databases, Architectures and Structures. Paving the Road to Smart Data Processing and Analysis - 15th International Conference, BDAS 2019, Ustroń, Poland, May 28-31, 2019, Proceedings*, Springer. pp. 57-69. [DOI](https://doi.org/10.1007/978-3-030-19093-4_5).
+:::
+
+::: {.publication-entry}
+[2019]{.publication-year}
+
+Harsh Thakkar, Renzo Angles, Dominik Tomaszuk, and Jens Lehmann. "Direct Mappings between RDF and Property Graph Databases." *CoRR* abs/1912.02127. [URL](http://arxiv.org/abs/1912.02127).
+:::
+
+::: {.publication-entry}
+[2019]{.publication-year}
+
+Renzo Angles, Harsh Thakkar, and Dominik Tomaszuk. "RDF and Property Graphs Interoperability: Status and Issues." In *Proceedings of the 13th Alberto Mendelzon International Workshop on Foundations of Data Management, Asunción, Paraguay, June 3-7, 2019*, CEUR-WS.org. [URL](https://ceur-ws.org/Vol-2369/paper01.pdf).
+:::
+
+::: {.publication-entry}
+[2018]{.publication-year}
+
+Dominik Tomaszuk. "Inference rules for OWL-P in N3Logic." In *Communication Papers of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS 2018, Poznań, Poland, September 9-12, 2018*. pp. 27-33. [DOI](https://doi.org/10.15439/2018F102).
+:::
+
+::: {.publication-entry}
+[2018]{.publication-year}
+
+Dominik Tomaszuk and Karol Litman. "DRPD: Architecture for Intelligent Interaction with RDF Prefixes." In *Proceedings of the 2nd Workshop on Decentralizing the Semantic Web co-located with the 17th International Semantic Web Conference, DeSemWeb ISWC 2018, Monterey, California, USA, October 8, 2018*, CEUR-WS.org. [URL](https://ceur-ws.org/Vol-2165/paper5.pdf).
+:::
+
+::: {.publication-entry}
+[2018]{.publication-year}
+
+Dominik Tomaszuk and Lukasz Szeremeta. "Named Property Graphs." In *Proceedings of the 2018 Federated Conference on Computer Science and Information Systems, FedCSIS 2018, Poznań, Poland, September 9-12, 2018*. pp. 173-177. [DOI](https://doi.org/10.15439/2018F103).
+:::
+
+::: {.publication-entry}
+[2017]{.publication-year}
+
+Dominik Tomaszuk. "RDF Validation: A Brief Survey." In *Beyond Databases, Architectures and Structures. Towards Efficient Solutions for Data Analysis and Knowledge Representation - 13th International Conference, BDAS 2017, Ustroń, Poland, May 30 - June 2, 2017, Proceedings*. pp. 344-355. [DOI](https://doi.org/10.1007/978-3-319-58274-0_28).
+:::
+
+::: {.publication-entry}
+[2016]{.publication-year}
+
+Dominik Tomaszuk. "Inference rules for RDF(S) and OWL in N3Logic." *CoRR* abs/1601.02650. [URL](http://arxiv.org/abs/1601.02650).
+:::
+
+::: {.publication-entry}
+[2016]{.publication-year}
+
+Dominik Tomaszuk. "RDF Data in Property Graph Model." In *Metadata and Semantics Research - 10th International Conference, MTSR 2016, Göttingen, Germany, November 22-25, 2016, Proceedings*. pp. 104-115. [DOI](https://doi.org/10.1007/978-3-319-49157-8_9).
+:::
+
+::: {.publication-entry}
+[2016]{.publication-year}
+
+Dominik Tomaszuk. "RDF Event Stream Processing Based on the Publish-Subscribe Pattern." In *Multimedia and Network Information Systems - Proceedings of the 10th International Conference MISSI 2016, Wroclaw, Poland, 14-16 September 2016*, Springer. pp. 369-378. [DOI](https://doi.org/10.1007/978-3-319-43982-2_32).
+:::
+
+::: {.publication-entry}
+[2015]{.publication-year}
+
+Dominik Tomaszuk, Lukasz Skonieczny, and David Wood. "RDF Graph Partitions: A Brief Survey." In *Beyond Databases, Architectures and Structures - 11th International Conference, BDAS 2015, Ustroń, Poland, May 26-29, 2015, Proceedings*, Springer. pp. 256-264. [DOI](https://doi.org/10.1007/978-3-319-18422-7_23).
+:::
+
+::: {.publication-entry}
+[2014]{.publication-year}
+
+Dominik Tomaszuk and Henryk Rybinski. "Grouping Multiple RDF Graphs in the Collections." In *Beyond Databases, Architectures, and Structures - 10th International Conference, BDAS 2014, Ustron, Poland, May 27-30, 2014. Proceedings*, Springer. pp. 160-169. [DOI](https://doi.org/10.1007/978-3-319-06932-6_16).
+:::
+
+::: {.publication-entry}
+[2012]{.publication-year}
+
+Dominik Tomaszuk, Karol Pak, and Henryk Rybinski. "Trust in RDF Graphs." In *Advances in Databases and Information Systems - 16th East European Conference, ADBIS 2012, Poznań, Poland, September 18-21, 2012. Proceedings II*, Springer. pp. 273-283. [DOI](https://doi.org/10.1007/978-3-642-32741-4_25).
+:::
+
+::: {.publication-entry}
+[2011]{.publication-year}
+
+Dominik Tomaszuk and Henryk Rybinski. "OAuth+UAO: A Distributed Identification Mechanism for Triplestores." In *Computational Collective Intelligence. Technologies and Applications - Third International Conference, ICCCI 2011, Gdynia, Poland, September 21-23, 2011, Proceedings, Part I*, Springer. pp. 275-284. [DOI](https://doi.org/10.1007/978-3-642-23935-9_27).
+:::
+:::

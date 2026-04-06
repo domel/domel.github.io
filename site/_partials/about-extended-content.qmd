@@ -1,0 +1,47 @@
+::: {.stacked-list}
+::: {.content-panel}
+**Research stays at home and abroad**
+
+- **2024-02 to 2025-03**. TU Wien, DBAI Research Unit, Data Management and Knowledge-Driven AI (DMKI) Lab
+- **2020-01**. Budapest, Hungary, Fault Tolerant Systems Research Group, Budapest University of Technology and Economics
+- **2019-08 to 2019-10**. Curico and Santiago, Chile, Millennium Institute for Foundational Research on Data
+- **2018-11**. Curico, Chile, University of Talca
+- **2017-09**. Helsinki, Finland, Aalto University and University of Helsinki
+- **2015-09 to 2015-10**. Lund, Sweden, Lund University, as part of the TransFormation program organized by the Ministry of Science and Higher Education (DIR/1861/AP/2015)
+- **2015-03**. Galway, Ireland, Insight Centre for Data Analytics, National University of Ireland
+- **2009-present**. Bialystok, Poland, University of Bialystok, Faculty of Mathematics and Computer Science / Institute of Computer Science
+- **2008**. Bialystok, Poland, Bialystok University of Technology, Faculty of Computer Science
+:::
+
+::: {.content-panel}
+**Prizes and awards**
+
+- **2023**. SIGMOD Industry Track Best Paper
+- **2022**. Bronze Medal for Long Service
+- **2022**. PVLDB Volume 15, VLDB 2022 Best Regular Research Paper Runner-Up for *Threshold Queries in Theory and in the Wild*
+- **2015**. Business Idea Pitching at Lund University, Sweden
+- **2015**. Rector's Award for scientific work
+- **2014**. "Best practitioner" award from UwB students
+- **2013**. Annual scientific scholarship of the Podlasie Scholarship Fund
+- **2012**. Rector's Award for scientific work
+- **2010**. Rector's Award for organizational work
+- **2008**. Honorable thesis
+:::
+
+::: {.content-panel}
+**Information about obtained degrees**
+
+- **2014**. PhD in computer science, Warsaw University of Technology
+- **2008**. MSc (mgr inz.) in computer science, Bialystok University of Technology
+- **2008**. BSc in economics, with honors, Higher School of Economics
+:::
+
+::: {.content-panel}
+**Career**
+
+- **Feb 2024 to Mar 2025**. Postdoc, TU Wien
+- **Since Oct 2014**. Assistant Professor, University of Bialystok
+- **Oct 2009 to Sep 2014**. Research Assistant, University of Bialystok
+- **2008**. Research Assistant Intern, Bialystok University of Technology
+:::
+:::

@@ -1,0 +1,46 @@
+::: {.stacked-list}
+::: {.content-panel}
+### RDF / Semantic Web / Linked Data
+
+- **[dm-rdf12](https://github.com/domel/dm-rdf12)**: A Python implementation of an RDF 1.2-aware `rdf2pg` prototype that parses RDF 1.1/1.2, supports GDM/SDM/CDM mappings, and emits YARS-PG or JSON debug output.
+- **[rdf12conv](https://github.com/domel/rdf12conv)**: A self-contained Python converter and validator for RDF 1.2 N-Triples, N-Quads, Turtle, and TriG, with deterministic serialization and readable Turtle/TriG output.
+- **[rdf-interop](https://github.com/domel/rdf-interop)**: A pure-Python RDF 1.2 interoperability toolkit for format conversion, synthetic benchmark generation, and overhead/statistics analysis for large graphs with quoted triples.
+- **[rdf12-ntriples-parser](https://github.com/domel/rdf12-ntriples-parser)**: A CLI parser for RDF 1.2 N-Triples that exports SPARQL 1.2 Query Results in CSV or TSV form.
+- **[rdfstats_stream](https://github.com/domel/rdfstats_stream)**: A lightweight streaming tool for bounded-memory analysis of very large RDF graphs that produces predicate distributions, cardinalities, co-occurrence summaries, rules, and plots.
+- **[rdfcompare](https://github.com/domel/rdfcompare)**: A Python utility for comparing RDF files across serializations such as Turtle, JSON-LD, and RDF/XML.
+- **[yars](https://github.com/domel/yars)**: A small converter from RDF serializations such as Turtle and N-Triples into YARS serialization.
+- **[graphConv](https://github.com/domel/graphConv)**: A PG-to-RDF converter that transforms property-graph inputs such as GraphML into RDF serializations including Turtle, JSON-LD, and RDF/XML.
+- **[RDF_database_hashing](https://github.com/domel/RDF_database_hashing)**: A project focused on developing hashing methods for RDF graphs, with support for multiple RDF input serializations and hash algorithms.
+- **[chemskos](https://github.com/domel?page=2&tab=repositories)**: A Semantic Web project based on Skosmos for SKOS-oriented linked-data work in the chemistry domain.
+- **[cgdl-conv](https://github.com/domel/cgdl-conv)**: A Common Graph Definition Language converter that targets formats such as JSON, CBOR, XML, TOML, YAML, SHACL, and ShEx.
+- **[n3builtins](https://github.com/domel/n3builtins)**: A documentation/specification repository for N3 builtin functions, generated into a website and tied to the W3C N3 ecosystem.
+- **[N3](https://github.com/domel?page=2&tab=repositories)** *(fork)*: A fork of the W3C Notation 3 Community Group repository covering N3 grammar, specification, examples, tests, and builtins-related material.
+- **[rdfsurfaces](https://github.com/domel?page=2&tab=repositories)** *(fork)*: A repository for RDF Surfaces, a sublanguage of Notation3 intended to express classical first-order logic with negation in RDF.
+- **[n3-editor-js](https://github.com/domel/n3-editor-js)** *(fork)*: A JavaScript-based editor for Notation3, directly relevant to Semantic Web tooling around N3.
+- **[sparql-dev](https://github.com/domel/sparql-dev)** *(fork)*: A fork of the SPARQL Dev Community Group repository that collects issues, proposals, and discussion material for SPARQL evolution.
+- **[shex-ucr](https://github.com/domel/shex-ucr)**: A repository centered on ShEx use cases and requirements in the RDF validation and Semantic Web space.
+:::
+
+::: {.content-panel}
+### Property Graphs / Graph Databases / GQL
+
+- **[pgs-gen](https://github.com/domel/pgs-gen)**: A PG-Schema data generator that produces random property-graph data and exports it to GraphML and GraphSON variants while supporting list-valued properties and PG-Schema semantics.
+- **[rules-poc](https://github.com/domel/rules-poc)**: A lightweight proof-of-concept runner for GQL Rules that executes wrapper-level Cypher rule programs iteratively over Neo4j until fixpoint.
+- **[gqlrules](https://github.com/domel/gqlrules)**: A ready-to-run Neo4j 5 + APOC proof of concept that translates GQL Rules use cases into executable Cypher scripts, views, and verification queries.
+- **[brc](https://github.com/domel/brc)**: A repository dedicated to binary relation constraints in PG-Schema.
+- **[pg-schema-pc](https://github.com/domel/pg-schema-pc)**: An extension of PG-Schema for expressing structural constraints in property graph data models.
+- **[pgschema](https://github.com/domel/pgschema)**: A repository for PG-Schema grammar, including EBNF, ANTLR grammars, railroad diagrams, and examples.
+- **[PGDL-conv](https://github.com/domel/PGDL-conv)**: A Property Graph Definition Language converter that maps PGDL to and from formats such as JSON, CBOR, XML, TOML, YAML, and PG-SHACL.
+- **[BPG](https://github.com/domel/BPG)**: A repository for efficient and scalable property graph serialization.
+- **[metadata_gen](https://github.com/domel/metadata_gen)**: A Java tool for generating property-graph metadata, developed in the context of the MMLKG project.
+- **[pgkeysyntax](https://github.com/domel/pgkeysyntax)**: A repository for an open-source grammar and parser for PG-Keys.
+- **[GQL-parser](https://github.com/domel/GQL-parser)** *(fork)*: An ANTLR v4-based parser for GQL created in a graph-query-language research context.
+- **[gqlrrd](https://github.com/domel/gqlrrd)**: A repository for GQL railroad diagrams, useful for documenting and visualizing graph query language syntax.
+:::
+
+::: {.content-panel}
+### Knowledge Representation / Ontologies / Graph Query Conceptualization
+
+- **[graphquerylangs](https://github.com/domel/graphquerylangs)**: An OWL 2 ontology serialized in Turtle that models a machine-queryable conceptualization of a graph query language domain.
+:::
+:::

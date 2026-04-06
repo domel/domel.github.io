@@ -1,0 +1,43 @@
+---
+title: Home
+body-classes: home-page
+---
+
+::: {.hero-shell}
+::: {.hero-copy}
+## Dr Dominik Tomaszuk {.hero-name}
+
+Research in Semantic Web, Linked Data, graph databases, knowledge representation, RDF, Property Graphs, data interoperability, data integration, and data modeling.
+
+I work on interoperability between RDF and Property Graphs, graph data conversion, schema languages, validation, and graph query language concepts.
+
+::: {.hero-actions}
+[Explore research](research.html){.hero-button}
+[View publications](publications.html){.hero-button .hero-button-ghost}
+:::
+:::
+
+::: {.hero-panel}
+### Research interests
+
+- Semantic Web
+- Linked Data
+- Graph Databases
+- Knowledge Representation
+- RDF
+- Property Graphs
+- Data Interoperability
+- Data Integration
+- Data Modeling
+:::
+:::
+
+## Navigate the site
+
+- [About](about.html) for profile and core research interests.
+- [Research](research.html) for focus areas, project portfolio, and software.
+- [Publications](publications.html) for articles, papers, and other research outputs.
+- [Conferences](conferences.html) for conference-related content.
+- [Service](service.html) for reviewing activity and program committee work.
+- [Bio](bio.html) for a browser view and the downloadable PDF biography.
+- [Contact](contact.html) for institutional address, email, and phone details.

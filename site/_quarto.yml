@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render:
+    - python3 scripts/render_publications.py
+  render:
+    - index.qmd
+    - about.qmd
+    - research.qmd
+    - publications.qmd
+    - conferences.qmd
+    - service.qmd
+    - bio.qmd
+    - contact.qmd
+
+website:
+  title: "Dr Dominik Tomaszuk"
+  navbar:
+    pinned: true
+    right:
+      - about.qmd
+      - research.qmd
+      - publications.qmd
+      - conferences.qmd
+      - service.qmd
+      - text: Bio
+        href: bio.qmd
+      - contact.qmd
+  page-footer:
+    left: "Dominik Tomaszuk"
+    right: "Built with Quarto and published on GitHub Pages."
+
+format:
+  html:
+    theme: flatly
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

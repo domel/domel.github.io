@@ -1,0 +1,5 @@
+{{< include _partials/research-overview-content.qmd >}}
+
+## Projects
+
+{{< include _partials/projects-content.qmd >}}
