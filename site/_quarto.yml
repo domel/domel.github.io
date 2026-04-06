@@ -3,6 +3,8 @@ project:
   output-dir: _site
   pre-render:
     - python3 scripts/render_publications.py
+  post-render:
+    - python3 scripts/fix_w3c_html.py
   render:
     - index.qmd
     - about.qmd
