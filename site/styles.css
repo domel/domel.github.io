@@ -335,6 +335,10 @@ th {
   margin-top: 1.2rem;
 }
 
+.publication-year-nav {
+  display: none;
+}
+
 .publication-entry {
   margin-bottom: 1.1rem;
   padding: 1rem 1.1rem;
@@ -342,6 +346,7 @@ th {
   background: rgba(255, 255, 255, 0.68);
   border: 1px solid rgba(31, 92, 82, 0.14);
   box-shadow: 0 10px 24px rgba(31, 44, 42, 0.04);
+  scroll-margin-top: 7rem;
 }
 
 .publication-entry p {
@@ -404,6 +409,66 @@ th {
 
   .hero-name {
     font-size: clamp(1.9rem, 8vw, 2.5rem);
+  }
+}
+
+@media (min-width: 993px) {
+  .publication-year-nav {
+    display: block;
+    position: sticky;
+    top: 5.4rem;
+    z-index: 10;
+    margin: 0 0 1.2rem;
+    padding: 0.9rem 1rem;
+    border-radius: var(--radius-md);
+    background: rgba(248, 245, 239, 0.92);
+    border: 1px solid rgba(31, 92, 82, 0.16);
+    backdrop-filter: blur(14px);
+    box-shadow: 0 12px 28px rgba(31, 44, 42, 0.08);
+  }
+
+  .publication-year-nav p {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.55rem;
+    margin: 0;
+  }
+
+  .publication-year-nav-label {
+    color: var(--muted);
+    font-size: 0.95rem;
+    font-weight: 600;
+    margin-right: 0.2rem;
+  }
+
+  .publication-year-link,
+  .publication-year-link:visited {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 3.2rem;
+    padding: 0.45rem 0.8rem;
+    border-radius: 999px;
+    border: 1px solid rgba(31, 92, 82, 0.18);
+    background: rgba(255, 255, 255, 0.72);
+    color: var(--accent-dark);
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-decoration: none;
+    transition:
+      transform 160ms ease,
+      background-color 160ms ease,
+      border-color 160ms ease,
+      color 160ms ease;
+  }
+
+  .publication-year-link:hover,
+  .publication-year-link:focus {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: #f7f4ed;
+    transform: translateY(-1px);
   }
 }
 

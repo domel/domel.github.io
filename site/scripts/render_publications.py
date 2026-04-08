@@ -191,7 +191,14 @@ def sort_key(entry: dict[str, str]) -> tuple[int, str, str]:
     return (-numeric_year, entry.get("author", ""), entry.get("title", ""))
 
 
-def format_entry(entry: dict[str, str]) -> str:
+def year_anchor(year: str) -> str:
+    safe_year = re.sub(r"[^0-9A-Za-z_-]+", "-", year.strip().lower()).strip("-")
+    if not safe_year:
+        safe_year = "unknown"
+    return f"publication-year-{safe_year}"
+
+
+def format_entry(entry: dict[str, str], anchor_id: str | None = None) -> str:
     year = entry.get("year", "n.d.")
     authors = format_authors(entry.get("author", ""))
     title = entry.get("title", "Untitled")
@@ -204,9 +211,13 @@ def format_entry(entry: dict[str, str]) -> str:
     if details:
         citation = f"{citation} {details}."
 
+    entry_block = "::: {.publication-entry}"
+    if anchor_id:
+        entry_block = f"::: {{#{anchor_id} .publication-entry}}"
+
     return "\n".join(
         [
-            "::: {.publication-entry}",
+            entry_block,
             f"[{year}]{{.publication-year}}",
             "",
             f"{citation}",
@@ -215,17 +226,55 @@ def format_entry(entry: dict[str, str]) -> str:
     )
 
 
-def render(entries: list[dict[str, str]]) -> str:
-    ordered = sorted(entries, key=sort_key)
-    body = "\n\n".join(format_entry(entry) for entry in ordered)
+def render_year_nav(years: list[str]) -> str:
+    if not years:
+        return ""
+
+    links = " ".join(
+        f"[{year}](#{year_anchor(year)}){{.publication-year-link}}" for year in years
+    )
+
     return "\n".join(
         [
-            "::: {.publication-list}",
-            body,
+            "::: {.publication-year-nav}",
+            f"[Jump to year]{{.publication-year-nav-label}} {links}",
             ":::",
             "",
         ]
     )
+
+
+def render(entries: list[dict[str, str]]) -> str:
+    ordered = sorted(entries, key=sort_key)
+    seen_years: set[str] = set()
+    years: list[str] = []
+    rendered_entries: list[str] = []
+
+    for entry in ordered:
+        year = entry.get("year", "n.d.")
+        anchor_id = None
+
+        if year not in seen_years:
+            seen_years.add(year)
+            years.append(year)
+            anchor_id = year_anchor(year)
+
+        rendered_entries.append(format_entry(entry, anchor_id=anchor_id))
+
+    blocks: list[str] = []
+    nav = render_year_nav(years).strip()
+    if nav:
+        blocks.append(nav)
+
+    blocks.extend(
+        [
+            "::: {.publication-list}",
+            "\n\n".join(rendered_entries),
+            ":::",
+        ]
+    )
+
+    return "\n\n".join(blocks) + "\n"
 
 
 def bibliography_source() -> Path:
